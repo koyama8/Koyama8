@@ -1,6 +1,7 @@
-###  Olá, Eu sou o Matheus Koyama
+###  Hey, I'm Koyama 👋
 
-- 🌱 Estudando Desenvolvimento Web com PHP e Banco de Dados MySQL
+- 🇧🇷 São Paulo / Living in Maringá
+- 🌱 Learning Desenvolvimento Web com PHP e Banco de Dados MySQL
 
 
 <div align="center">
