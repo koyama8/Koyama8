@@ -2,6 +2,7 @@
 
 - 🇧🇷 São Paulo / Living in Maringá
 - 🌱 Learning Desenvolvimento Web com PHP e Banco de Dados MySQL
+- 👨‍💻 Learning Python Fundamentos Para Análise de Dados 3.0  
 
 
 <div align="center">
