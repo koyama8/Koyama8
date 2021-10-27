@@ -1,7 +1,7 @@
 ###  Hey, I'm Koyama 👋
 
 - 🇧🇷 São Paulo / Living in Maringá
-- 🌱 Learning  Web Design Completo: HTML5, CSS3 e JS + 5 
+- 🌱 Learning  Web Design Completo: HTML5, CSS3 e JS 
 - 👨‍💻 Learning Python Fundamentos Para Análise de Dados 3.0  
 
 
