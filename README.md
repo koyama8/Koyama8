@@ -1,7 +1,7 @@
 ###  Hey, I'm Koyama 👋
 
 - 🇧🇷 São Paulo / Living in Maringá
-- 🌱 Learning Desenvolvimento Web com PHP e Banco de Dados MySQL
+- 🌱 Learning  Web Design Completo: HTML5, CSS3 e JS + 5 Projetos
 - 👨‍💻 Learning Python Fundamentos Para Análise de Dados 3.0  
 
 
