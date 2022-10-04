@@ -2,8 +2,6 @@
 
 - 🇧🇷 São Paulo / Living in Maringá
 - 🌱 Learning  Web Design Completo: HTML5, CSS3 e JS 
-- 👨‍💻 Learning Python Fundamentos Para Análise de Dados 3.0  
-
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
