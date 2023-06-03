@@ -1,7 +1,7 @@
 ###  Hey, I'm Koyama 👋
 
-- 🇧🇷 São Paulo / Living in Maringá
-- 🌱 Learning  Web Design Completo: HTML5, CSS3 e JS 
+- 🇧🇷 São Paulo 
+- 🌱 Learning  Java, Banco de Dados, Git e JS 
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
