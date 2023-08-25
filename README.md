@@ -1,7 +1,7 @@
 ###  Hey, I'm Koyama 👋
 
 - 🇧🇷 São Paulo 
-- 🌱 Improving knowledge: Java, JS, JSF, Banco de Dados e Git 
+- 🌱 Improving knowledge: Java, JS, JSF e Banco de Dados
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
