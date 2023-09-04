@@ -1,7 +1,7 @@
 ###  Hey, I'm Koyama 👋
 
 - 🇧🇷 São Paulo 
-- 🌱 Studying: Angular,JS, Java e Banco de Dados
+- 🌱 Studying: Angular,React ,JS, e Banco de Dados
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
