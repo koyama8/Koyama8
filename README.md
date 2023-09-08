@@ -4,7 +4,7 @@
 - 🌱 Studying: Angular,React ,JS, e Banco de Dados
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Koyama8&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?usernameKoyama8=&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koyama8&layout=compact&langs_count=7&theme=moltack"/>
 </div>
 
