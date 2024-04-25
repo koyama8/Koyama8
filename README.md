@@ -1,7 +1,7 @@
 ###  Hey, I'm Koyama 👋
 
 - 🇧🇷 São Paulo 
-- 🌱 Studying: Angular
+- 🌱 Studying: Angular, JavaScript
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=koyama8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
