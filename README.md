@@ -21,3 +21,8 @@ Sou formado em Ciência da Computação e atuo como desenvolvedor Front-end, com
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" align="center" />&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git" align="center" />
 </div>
+
+## 💻 Redes Sociais 
+
+ <a href="" target="_blank" title="Linkedin">
+<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="Linkedin" /></a>
