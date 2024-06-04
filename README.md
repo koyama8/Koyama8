@@ -2,7 +2,7 @@
 Olá, Eu sou o Koyama 👋
 Sou formado em Ciência da Computação e atuo como desenvolvedor Front-end, com especialização em Angular e desenvolvimento de aplicações web. Trabalho para criar experiências interativas e intuitivas, focadas em oferecer soluções eficientes e atraentes para os usuários. 
 
-🌱 Studying: Angular, JavaScript e Typescript 💬 Disponível para interação
+🌱 Studying: Angular, JavaScript e Typescript 
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=koyama8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
