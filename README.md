@@ -1,6 +1,5 @@
 # 🚀 Sobre mim
-Olá, Eu sou o Koyama 👋
-Sou formado em Ciência da Computação e atuo como desenvolvedor Front-end, com especialização em Angular e desenvolvimento de aplicações web. Trabalho para criar experiências interativas e intuitivas, focadas em oferecer soluções eficientes e atraentes para os usuários. 
+Olá, eu sou o Koyama 👋. Sou formado em Ciência da Computação e atuo como desenvolvedor Front-end, com especialização em Angular e desenvolvimento de aplicações web. Meu foco é criar experiências interativas e intuitivas, oferecendo soluções eficientes e atraentes para os usuários.
 
 🌱 Studying: Angular, JavaScript e Typescript 
 
