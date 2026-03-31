@@ -7,26 +7,6 @@ Meu objetivo é desenvolver soluções tecnológicas eficazes, bem projetadas e 
 
 ---
 
-## 🤖 Projeto em Destaque
-
-<p align="center">
-  <a href="https://github.com/koyama8/the-internet-automation" target="_blank">
-    <img src="https://img.shields.io/badge/Projeto%20de%20Automa%C3%A7%C3%A3o-The%20Internet-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Projeto de Automação - The Internet" />
-  </a>
-</p>
-
-<p align="center">
-  Repositório focado em <strong>automação de testes web</strong>, utilizando boas práticas para validação de fluxos, elementos e cenários automatizados.
-</p>
-
-<p align="center">
-  <a href="https://github.com/koyama8/the-internet-automation" target="_blank">
-    🔗 Acessar repositório
-  </a>
-</p>
-
----
-
 ## 📈 Atividade no GitHub
 
 <p align="center">
