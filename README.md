@@ -1,9 +1,9 @@
 # 🚀 Sobre mim
 
-Olá, eu sou o **Koyama** 👋  
-Sou formado em **Ciência da Computação** e atuo com **QA Manual** e **Automação de Testes**, com experiência em aplicações web.  
-Também já trabalhei com **UX Design** e **UI Design**, criando experiências interativas e intuitivas.  
-Meu objetivo é desenvolver soluções tecnológicas eficazes, bem projetadas e alinhadas às necessidades dos usuários.
+Olá, eu sou o Koyama 👋
+Sou formado em Ciência da Computação e atuo com QA Manual e Automação de Testes, com experiência em aplicações web.
+Também possuo experiência com UX Design e UI Design, criando interfaces interativas, intuitivas e focadas no usuário.
+Meu objetivo é desenvolver soluções tecnológicas eficientes, bem estruturadas e alinhadas às reais necessidades dos usuários.
 
 ---
 
