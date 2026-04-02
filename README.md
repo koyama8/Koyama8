@@ -5,21 +5,6 @@ Sou formado em Ciência da Computação e atuo com QA Manual e Automação de Te
 Também possuo experiência com UX Design e UI Design, criando interfaces interativas, intuitivas e focadas no usuário.
 Meu objetivo é desenvolver soluções tecnológicas eficientes, bem estruturadas e alinhadas às reais necessidades dos usuários.
 
----
-## 📊 Dashboard GitHub
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koyama8&theme=dracula" alt="Profile Details" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koyama8&theme=dracula" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=koyama8&theme=dracula&utcOffset=-3" alt="Productive Time" />
-</p>
-
----
-
 
 ## 🛠 Habilidades em Automação
 
