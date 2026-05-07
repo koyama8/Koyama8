@@ -1,12 +1,7 @@
 # 🚀 Sobre mim
 
-Olá, eu sou o Koyama 👋
-
-Sou formado em Ciência da Computação e atuo com QA Manual e Automação de Testes, com experiência em aplicações web e APIs.
-
-Também possuo experiência com UX Design e UI Design, criando interfaces interativas, intuitivas e focadas no usuário.
-
-Meu objetivo é desenvolver soluções tecnológicas eficientes, bem estruturadas e alinhadas às reais necessidades dos usuários.
+Olá, eu sou o Koyama 👋  
+Sou formado em Ciência da Computação e atuo com QA Manual e Automação de Testes, com experiência em aplicações web e APIs. Também possuo experiência com UX Design e UI Design, criando interfaces interativas, intuitivas e focadas no usuário. Meu objetivo é desenvolver soluções tecnológicas eficientes, bem estruturadas e alinhadas às reais necessidades dos usuários.
 
 ---
 
@@ -30,7 +25,6 @@ Meu objetivo é desenvolver soluções tecnológicas eficientes, bem estruturada
 ## ⚙️ Projetos em Destaque
 
 - 🤖 [**The Internet Automation**](https://github.com/koyama8/the-internet-automation) — Projeto voltado para automação de testes web com foco em prática, estruturação de cenários e evolução técnica em QA.
-
 - 🔌 [**API QA Lab**](https://github.com/koyama8/api-qa-lab) — Projeto de API em contexto bancário, com login, clientes, cartões, faturas e pagamentos, estruturado para testes manuais no Bruno, automação com Java + REST Assured e Cypress, validações funcionais e futura integração CI/CD.
 
 ---
