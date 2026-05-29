@@ -5,7 +5,7 @@ Sou formado em Ciência da Computação e atuo com QA Manual e Automação de Te
 
 ---
 
-## 🛠 Habilidades em Automação
+## 🧪 Stack de Qualidade e Automação
 
 <p align="center">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
@@ -20,19 +20,11 @@ Sou formado em Ciência da Computação e atuo com QA Manual e Automação de Te
   <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
 
-## ⚙️ Projetos em Destaque
+
+## 🌐 Projetos e Laboratórios
 
 - 🤖 [**The Internet Automation**](https://github.com/koyama8/the-internet-automation) — Projeto voltado para automação de testes web com foco em prática, estruturação de cenários e evolução técnica em QA.
-- 🔌 [**API QA Lab**](https://github.com/koyama8/api-qa-lab) — Projeto de API em contexto bancário, com login, clientes, cartões, faturas e pagamentos, estruturado para testes manuais no Bruno, automação com Java + REST Assured e Cypress, validações funcionais e futura integração CI/CD.
-
+- 🔌 [**API QA Lab**](https://github.com/koyama8/api-qa-lab) — Laboratório de QA focado em testes de API e automação, com REST Assured, Cypress Web, Cypress API, Playwright, validações funcionais, documentação técnica, GitHub Actions e Cypress Cloud.
+  
 ---
-
-## 💻 Redes Sociais
-
-<p align="center">
-  <a href="COLE_AQUI_SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
