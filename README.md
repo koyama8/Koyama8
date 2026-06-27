@@ -24,6 +24,7 @@ Sou formado em Ciência da Computação e atuo com QA Manual e Automação de Te
 ---
 
 ## 🌐 Projetos e Laboratórios
+- 🧪 [**Automation Hub**](https://github.com/koyama8/Automation-Hub) — Projeto de QA Automation voltado para testes web e API, com Cypress, validações funcionais, automação de cenários críticos e organização técnica de testes automatizados.
 
 - 🤖 [**The Internet Automation**](https://github.com/koyama8/the-internet-automation) — Projeto voltado para automação de testes web com foco em prática, estruturação de cenários e evolução técnica em QA.
 
