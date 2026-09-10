@@ -35,6 +35,6 @@ Também possuo experiência com UX Design e UI Design, criando interfaces intuit
 
 - 🧪 [**Automation Hub**](https://github.com/koyama8/Automation-Hub) — Laboratório de Engenharia de Qualidade (QA/SDET) com automação Web e API em Cypress, BDD/Cucumber, Page Objects, API Clients, factories para geração de dados, Docker e CI/CD com GitHub Actions.
 
-- 🎭 [**Playwright Web API Lab**](https://github.com/koyama8/playwright-web-api-lab) — Laboratório de Engenharia de Qualidade em desenvolvimento com Playwright e TypeScript, dedicado à automação Web E2E e de APIs, utilizando arquitetura reutilizável, Page Objects, fixtures, PostgreSQL, Docker e CI/CD.
+- 🎭 [**Playwright Web API Lab**](https://github.com/koyama8/playwright-sdet-lab) — Laboratório de Engenharia de Qualidade em desenvolvimento com Playwright e TypeScript, dedicado à automação Web E2E e de APIs, utilizando arquitetura reutilizável, Page Objects, fixtures, PostgreSQL, Docker e CI/CD.
 
 - 🔌 [**API QA Lab**](https://github.com/koyama8/api-qa-lab) — Laboratório dedicado à qualidade de APIs, com REST Assured, Cypress Web/API, validações funcionais, documentação técnica, integração contínua e execução no Cypress Cloud.
